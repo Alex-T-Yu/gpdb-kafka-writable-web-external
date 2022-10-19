@@ -1,4 +1,7 @@
 # GPDB - KAFKA Writable External Web Table
+
+Publish data to kafka. (GPDB to Kafka, Using External Web Table)
+
 ## Prerequirement
 1. Install Kafka Client. (Require. All Master and Segment Node)
 
